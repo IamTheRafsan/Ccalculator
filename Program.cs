@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.Write("Total how many numbers to be calculated?: ");
+            Console.Write("Total how many numbers to be calculated for you?: ");
             int num = Convert.ToInt32(Console.ReadLine());
 
             int a = Convert.ToInt32(Console.ReadLine());
