@@ -1,0 +1,14 @@
+/Users/r.y.evansmac/Desktop/Evan/Aiub/6th Semster/OOP-2/MID/classWork1/classWork1/bin/Debug/net7.0/classWork1
+/Users/r.y.evansmac/Desktop/Evan/Aiub/6th Semster/OOP-2/MID/classWork1/classWork1/bin/Debug/net7.0/classWork1.deps.json
+/Users/r.y.evansmac/Desktop/Evan/Aiub/6th Semster/OOP-2/MID/classWork1/classWork1/bin/Debug/net7.0/classWork1.runtimeconfig.json
+/Users/r.y.evansmac/Desktop/Evan/Aiub/6th Semster/OOP-2/MID/classWork1/classWork1/bin/Debug/net7.0/classWork1.dll
+/Users/r.y.evansmac/Desktop/Evan/Aiub/6th Semster/OOP-2/MID/classWork1/classWork1/bin/Debug/net7.0/classWork1.pdb
+/Users/r.y.evansmac/Desktop/Evan/Aiub/6th Semster/OOP-2/MID/classWork1/classWork1/obj/Debug/net7.0/classWork1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r.y.evansmac/Desktop/Evan/Aiub/6th Semster/OOP-2/MID/classWork1/classWork1/obj/Debug/net7.0/classWork1.AssemblyInfoInputs.cache
+/Users/r.y.evansmac/Desktop/Evan/Aiub/6th Semster/OOP-2/MID/classWork1/classWork1/obj/Debug/net7.0/classWork1.AssemblyInfo.cs
+/Users/r.y.evansmac/Desktop/Evan/Aiub/6th Semster/OOP-2/MID/classWork1/classWork1/obj/Debug/net7.0/classWork1.csproj.CoreCompileInputs.cache
+/Users/r.y.evansmac/Desktop/Evan/Aiub/6th Semster/OOP-2/MID/classWork1/classWork1/obj/Debug/net7.0/classWork1.dll
+/Users/r.y.evansmac/Desktop/Evan/Aiub/6th Semster/OOP-2/MID/classWork1/classWork1/obj/Debug/net7.0/refint/classWork1.dll
+/Users/r.y.evansmac/Desktop/Evan/Aiub/6th Semster/OOP-2/MID/classWork1/classWork1/obj/Debug/net7.0/classWork1.pdb
+/Users/r.y.evansmac/Desktop/Evan/Aiub/6th Semster/OOP-2/MID/classWork1/classWork1/obj/Debug/net7.0/classWork1.genruntimeconfig.cache
+/Users/r.y.evansmac/Desktop/Evan/Aiub/6th Semster/OOP-2/MID/classWork1/classWork1/obj/Debug/net7.0/ref/classWork1.dll
